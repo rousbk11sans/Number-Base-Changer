@@ -39,7 +39,7 @@ def BaseToggled(x,n):
     print(z)
 
 x = float(input("enter a decimal: "))
-n = int(input("enter a base(<11): "))
+n = int(input("enter a base: "))
 
 BaseToggled(x,n)
 
